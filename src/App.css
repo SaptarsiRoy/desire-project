@@ -8,11 +8,25 @@
       #39D9AD);
   background-size: cover;
   background-position: center;
+  padding-left: 10px;
+  overflow-x: hidden;
+}
+
+.heading {
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.meme-container {
   display: flex;
   flex-direction: row;
   flex-flow: row wrap;
-  padding: 10px;
-  overflow-x: hidden;
 }
 
 img,
@@ -20,4 +34,27 @@ video {
   width: var(--image-size);
   height: var(--image-size);
   margin: 20px;
+  margin-top: 10px;
+}
+
+.footer {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  margin-top: 90px;
+  display: block;
+  letter-spacing: 5px;
+}
+
+.github-url {
+  color: #fff;
+  text-decoration: none;
+}
+
+.github-url:hover {
+  color: #fff;
+  text-decoration: underline;
 }
