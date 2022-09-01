@@ -31,7 +31,7 @@ Fetching of the memes from Reddit is done using React hook through the given Red
 
 ## 📊 [Working](#work)
 
-You can view the netlify-hosted website [here](https://630e65532f7d080061e4bf69--thriving-faun-e2f038.netlify.app/)
+You can view the netlify-hosted website [here](https://631073002c971d0008f1b50b--thriving-faun-e2f038.netlify.app/)
 
 ## ✍️ [Author](#authors)
 
